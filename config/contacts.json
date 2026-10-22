@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "role": "Direct Manager",
+    "email": "sandy@gmail.com"
+  },
+  {
+    "name": "Priya Sharma",
+    "role": "HR Manager",
+    "email": "priya.sharma@company.com"
+  },
+  {
+    "name": "Anil Menon",
+    "role": "Team Lead",
+    "email": "anil.menon@company.com"
+  },
+  {
+    "name": "Deepa Nair",
+    "role": "IT Support",
+    "email": "deepa.nair@company.com"
+  },
+  {
+    "name": "Sanjay Iyer",
+    "role": "Admin / Ops",
+    "email": "sanjay.iyer@company.com"
+  }
+]
